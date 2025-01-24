@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="Shift_JIS"> 
+</head>
+
+<body>
+    <h1>Reading list 12</h1>
+    <h2>December 20, 2024</h2>
+    <br/>
+
+    <h3>1. Circuit dynamics of superficial and deep CA1 pyramidal cells and inhibitory cells in freely moving macaques</h3>
+    <p>Abbaspoor and Hoffman Cell Rep (2024)</p>
+    <p>DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2211124724008489?via%3Dihub">10.1016/j.celrep.2024.114519</a></p>
+    <br/>
+    
+    <h3>2. A fully automatic multichannel neural spike sorting algorithm with spike reduction and positional feature</h3>
+    <p>Mohammadi et al. J Neural Eng (2024)</p>
+    <p>DOI: <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad647d">10.1088/1741-2552/ad647d</a></p>
+    <br/>
+
+  
+</body>
+</html>
